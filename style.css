@@ -2,9 +2,10 @@ h1{
     background-color: white;
     font-size: 80px;
     font-family: 'Reenie Beanie', cursive;
-    text-align: left; 
-    margin-left: 20cm; 
+    text-align: center; 
   }
 body{
     background-color: white;
+    border-color: #D2B48C;
+    border-width: 15px;
 }
