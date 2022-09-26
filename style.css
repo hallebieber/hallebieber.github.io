@@ -1,9 +1,23 @@
 h1{
     background-color: #DFD0C0;
-    font-size: 155px;
+    font-size: 135px;
     font-family: 'Reenie Beanie', cursive;
     text-align: center; 
   }
+
+h2 {
+    font-size: 40px;
+    font-family: 'Reenie Beanie', cursive;
+    text-align: center; 
+
+}
+
+h3 {
+    font-size: 40px;
+    font-family: 'Reenie Beanie', cursive;
+    text-align: center;  
+}
+
 body{
     background-color: #DFD0C0;
     margin: 0%;
