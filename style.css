@@ -3,13 +3,13 @@ h1{
     font-size: 135px;
     font-family: 'Reenie Beanie', cursive;
     text-align: center; 
-    text-decoration: underline;
   }
 
 h2 {
     font-size: 40px;
     font-family: 'Reenie Beanie', cursive;
     text-align: center; 
+    font-color: #7c684f;
 
 }
 
@@ -34,6 +34,7 @@ footer{
     text-align: center;
     font-size: 40px;
     font-family: 'Reenie Beanie', cursive;
+    margin-top: 2in;
 }
 
 .img-gallery {
