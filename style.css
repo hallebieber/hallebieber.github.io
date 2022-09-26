@@ -23,6 +23,19 @@ body{
     background-color: #DFD0C0;
     margin: 0%;
 }
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #BA9D79;
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Reenie Beanie', cursive;
+}
+
 .img-gallery {
     width: 80%;
     margin: 100px auto 50px;
