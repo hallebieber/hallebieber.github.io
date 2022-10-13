@@ -2,13 +2,12 @@ h1{
     font-size: 175px; color: hotpink;
     font-family: 'Reenie Beanie', cursive;
     text-align: center; 
-    background-image:url(https://wallpapercave.com/wp/wp2399738.jpg);
     margin-bottom: 1in;
   }
 
 
 body{
-    background-color: purple;
+    background-color: black;
     margin: 0%;
 }
 
@@ -17,8 +16,8 @@ footer{
     left: 0;
     bottom: 0;
     width: 100%;
-    color: black;
-    background-color: whitesmoke;
+    color: hotpink;
+    background-color: rgb(18, 73, 226);
     text-align: center;
     font-size: 45px;
     font-family: 'Reenie Beanie', cursive;
