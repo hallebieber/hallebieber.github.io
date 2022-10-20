@@ -1,0 +1,28 @@
+.topnav {
+    background-color: #35645a;
+    overflow: hidden;
+  }
+  .topnav a {
+    float: right;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    font-family:'Poiret One';
+    font-size: 25px;
+  }
+  
+  h1{
+    font-family: 'Abril Fatface';
+    font-size: 70px;
+    text-align: center;
+    color: rgb(156, 118, 49);
+    margin-left: 20px;
+    background-color: #35645a;
+  }
+  
+  body{
+    background-color: #35645a;
+    margin: 0%;
+  }
+  
+ 
