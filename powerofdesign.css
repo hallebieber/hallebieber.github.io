@@ -5,7 +5,7 @@
 }
 
 .topnav {
-    background-color: white;
+    background-color: rgb(188, 189, 225);
     overflow: hidden;
   }
   .topnav a {
@@ -18,18 +18,21 @@
   }
   
   h1{
-    font-family: 'Abril Fatface';
-    font-size: 70px;
+    font-family: 'Gloria Hallelujah', cursive;
     text-align: center;
+    font-size: 75px;
     color: black;
     margin-left: 20px;
     margin-bottom: 30px;
     margin-top: 38px;
-    background-color: white;
   }
   
   body{
-    background-color: white;
+    background-color: rgb(188, 189, 225);
     margin: 0%;
     padding: 10px;
+  }
+
+  iframe {
+    text-align: center;
   }
