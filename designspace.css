@@ -27,7 +27,7 @@
   .parallax {
     background-color: #f6efe9;
     background-image: none;
-    min-height: 300px;
+    height: 100%;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
