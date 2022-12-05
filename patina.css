@@ -39,6 +39,25 @@ topnav {
 
   h3 {
     text-align: center;
-    font-family: 'Satisfy', cursive;
+    font-family: 'Cormorant Garamond', serif;
     font-size: 60px;
   }
+
+  p{
+    font-size: 20px;
+    text-align: center;
+    border-width: 30px;
+    margin-top: 27px;
+    margin-left: 40px;
+    scroll-margin-right: 40px;
+    font-family: 'Cormorant Garamond', serif;
+ }
+
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+
+ 
