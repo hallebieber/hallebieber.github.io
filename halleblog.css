@@ -9,7 +9,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 25px;
     font-family: 'Cormorant Garamond', serif;
     color: black;
     font-size: 15px;
@@ -24,7 +24,7 @@
   h2{
     font-family: 'Cormorant Garamond', serif;
     color: black;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 600;
   }
 
@@ -48,16 +48,19 @@
   .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 4px;
+    padding: 40px;
   }
   
   .column {
     flex: 33.33%;
     padding:10,10px;
+    border-width: 40px;
+    column-gap: 40px;
   }
   
   .column img {
-    margin-top: 8px;
+    margin-top: 30px;
     vertical-align: middle;
     width: 100%;
+    column-gap: 40px;
   }
