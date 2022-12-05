@@ -1,4 +1,4 @@
-.topnav {
+topnav {
     overflow: hidden;
     background-color: rgb(255, 255, 255);
   }
@@ -28,41 +28,11 @@
     font-weight: 600;
   }
 
-  p{
-    font-family: 'Cormorant Garamond', serif;
-    color: black;
-    font-size: 16px;
-    max-width: 200px;
-    max-height: fit-content;
-  }
-
   .parallax {
-    background-image: url("img/AD0920_JENNER_3.webp");
+    background-image: url("img/comic .png");
     min-height: 500px; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  }
-
-  .row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 40px;
-  }
-  
-  .column {
-    flex: 33.33%;
-    padding:10,10px;
-    border-width: 40px;
-    justify-content: space-between;
-
-  }
-  
-  .column img {
-    margin-top: 30px;
-    vertical-align: middle;
-    width: 100%;
-    justify-content: space-between;
-    
   }
