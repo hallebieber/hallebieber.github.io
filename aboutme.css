@@ -33,8 +33,13 @@
     text-align: center;
     border-width: 30px;
     font-family: 'Cormorant Garamond', serif;
+ }
 
-
+ img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
  }
 
  
