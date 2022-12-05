@@ -1,6 +1,7 @@
 .topnav {
     overflow: hidden;
     background-color: rgba(136, 8, 8);
+    color: white;
   }
   
   .topnav a {
@@ -55,12 +56,12 @@
     flex: 33.33%;
     padding:10,10px;
     border-width: 40px;
-    column-gap: 40px;
+    justify-content: space-between;
   }
   
   .column img {
     margin-top: 30px;
     vertical-align: middle;
     width: 100%;
-    column-gap: 40px;
+    
   }
