@@ -44,3 +44,20 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding:10,10px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
