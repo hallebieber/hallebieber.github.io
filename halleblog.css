@@ -36,4 +36,11 @@
     max-height: fit-content;
   }
 
- 
+  .parallax {
+    background-image: url("img/AD0920_JENNER_3.webp");
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
