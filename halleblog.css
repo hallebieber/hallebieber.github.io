@@ -48,13 +48,20 @@
   .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 40px;
+    flex-direction: column;
+    align-items: center;
+    padding: 4rem 2rem;
+    height:1000px;
+    width: 100vw;
+    background-color:rgb(255, 255, 255);
+    font-size: "36px";
   }
   
   .column {
-    flex: 33.33%;
-    padding:10,10px;
-    border-width: 40px;
+    display: flexbox;
+    width: 33.33%;
+    padding: 10 10px;
+    border-width: 2rem;
     justify-content: space-between;
 
   }
