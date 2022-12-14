@@ -26,23 +26,30 @@
   float: left;
   background-color: #ffffff;
   color: rgb(0, 0, 0);
-  font-family: 'Homemade Apple', cursive;
+  font-family: 'Abril Fatface', cursive;
   font-size: 30px;
   font-weight: 600;
   text-align: center;
 }
 
-
+.container {
+  min-height: 10em;
+  vertical-align: middle }
 
  p{
-    font-size: 20px;
+    font-size: 37px;
     text-align: center;
-    border-width: 30px;
-    margin-top: 50px;
+    border-width: 15px;
+    border-color: rgb(160, 114, 45);
+    border-style: double;
+    margin-top: 325px;
     margin-left: 40px;
+    margin-right: 40px;
     scroll-margin-right: 40px;
     font-family: 'Cormorant Garamond', serif;
  }
+
+
 
 
 
