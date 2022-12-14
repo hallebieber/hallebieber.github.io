@@ -1,36 +1,36 @@
 .topnav {
-    overflow: hidden;
-    background-color: rgb(255, 255, 255);
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  .topnav a {
-    float: right;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-family: 'Raleway', sans-serif;
-    color: black;
-    font-size: 23px;
-  }
-  
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 
-  .topnav a.split {
-    float: left;
-    background-color: #ffffff;
-    color: rgb(0, 0, 0);
-    font-family: 'Homemade Apple', cursive;
-    font-size: 30px;
-    font-weight: 600;
-    text-align: center;
-  }
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  font-size: 23px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.split {
+  float: left;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  font-family: 'Homemade Apple', cursive;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
   
 
   p{
@@ -83,19 +83,6 @@
 
 
   
-  h1,
-  h2 {
-    padding-top: 10vh;
-    color: white;
-    text-align: center;
-  }
-  
-  .mb_parallax_container {
-    height: 100vh;
-    width: 100vw;
-    border-bottom: 10px solid black;
-    padding-top: 20vh;
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
+
+
+ 
