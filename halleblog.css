@@ -48,6 +48,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
   }
 
   .row {
@@ -60,6 +61,7 @@
     width: 100vw;
     background-color:rgb(255, 255, 255);
     font-size: "36px";
+    overflow: hidden;
   }
   
   .column {
@@ -68,6 +70,7 @@
     padding: 10 10px;
     border-width: 2rem;
     justify-content: space-between;
+    overflow: hidden;
 
   }
   
@@ -77,6 +80,7 @@
     width: 100%;
     justify-content: space-between;
     position: relative;
+    overflow: hidden;
 
     
   }
